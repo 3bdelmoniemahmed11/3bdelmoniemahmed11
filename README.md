@@ -3,17 +3,17 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 ![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)
-[![Resume](https://img.shields.io/badge/Resume-orange.svg)](https://drive.google.com/file/d/1G40v19Zh2Vt5iz9-LGnqahH4JsM0ikMs/view?usp=sharing) 
+[![Resume](https://img.shields.io/badge/Resume-orange.svg)](https://drive.google.com/file/d/1WLgSoEPkZW0lM--j5NDpMG6oqXsckWq0/view?usp=sharing) 
 [![leetcode](https://img.shields.io/badge/LeetCode-<COLOR>.svg)](https://leetcode.com/abdelmoniemahmed3499/)
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Docker
+- 🔭 &nbsp; I’m currently learning Microservices
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; I’m fresh grad from ASU in Egypt
+- 🎓 &nbsp; I graduated from ASU in Egypt in 2021 
 - 💼 &nbsp; Full Stack web developer.
-- ✍️ &nbsp; i love bicycling and running .
-- ☕ &nbsp; I believe in hardworking can beat talent. 
+- ✍️ &nbsp; I love bicycling and running.
+- ☕ &nbsp; I believe that hard work can beat talent. 
 - How to reach me: __abdelmoniemahmed3499@gmail.com__
 &nbsp;
 <br>
